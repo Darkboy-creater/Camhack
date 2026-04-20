@@ -5,29 +5,33 @@ This tool can ability hack camera and location for education purpose for termux
                                        🔰Run and enjoy 🔰
 
 
-apt update 
+    apt update 
 
 
 
-apt upgrade -y
+    apt upgrade -y
 
 
-pkg install python -y
+    pkg install python -y
 
 
-pkg install git -y
+    pkg install git -y
 
 
-git clone https://github.com/Darkboy-creater/Camhack.git
+    git clone https://github.com/Darkboy-creater/Camhack.git
 
-cd Camhack
+    cd Camhack
 
 
-ls
+    ls
 
-python webcam_hack_v0.py
+    python webcam_hack_v0.py
 
-enter 
+    enter 
+
+    enter 
+
+    enter 
 
 
 
